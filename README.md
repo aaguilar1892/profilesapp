@@ -1,8 +1,8 @@
-# React + Vite
+# Serverless Web Application with AWS (Amplify, GraphQL API, Lambda, DynamoDB)
+#### This was an assignment for the class CSCE 3420 - Internet Programming
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project demonstrates how to build a fully serverless web application using Amazon Web Services (AWS). It leverages AWS Amplify for rapid front-end deployment, GraphQL API for flexible data querying, AWS Lambda for serverless compute, and Amazon DynamoDB for a NoSQL database.
 
-Currently, two official plugins are available:
+Basic template is provided by Vite, using a React template.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tutorial can be found [here](https://aws.amazon.com/getting-started/hands-on/build-web-app-s3-lambda-api-gateway-dynamodb/).
